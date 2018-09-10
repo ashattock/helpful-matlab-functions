@@ -10,11 +10,7 @@
 %  figfullscreen(2158, 'horizontaltrim', 100, 'verticaltrim', 50);
 %  figfullscreen('horizontaltrim', 200);
 %
-% Written by Roo - March 2014
-%
-% Updates: 
-%
-%  Optional input 'figname' added - renames the figure window
+% Written by A.J.Shattock - March 2014
 
 function fighandle = figfullscreen(varargin)
 

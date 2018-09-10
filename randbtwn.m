@@ -2,7 +2,7 @@
 %
 % One liner to generate array of random numbers between a and b.
 %
-% Written by Roo - December 2016
+% Written by A.J.Shattock - December 2016
 
 function r = randbtwn(a, b, n)
     

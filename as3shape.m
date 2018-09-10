@@ -1,8 +1,8 @@
 %% A.S. 3D RESHAPE
 %
-% Turns a 2D matrix into a 3D matrix with dimensions specified by dims
+% Turns a 2D matrix into a 3D matrix with dimensions specified by dims.
 %
-% Written by Roo - July 2016
+% Written by A.J.Shattock - July 2016
 
 function out = as3shape(mat, dims)
     
